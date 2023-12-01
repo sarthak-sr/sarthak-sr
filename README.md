@@ -37,11 +37,11 @@ My Projects
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.com/sarthak-s-1997)
+- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/sarthak-sr?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sarthak_1997)
 
-- 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
+- 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA, Machine Learning, Deep Learning, Tensorfloe, Keras, Word2Vec, NLP**
 
 - 📫 How to reach me **sarthak_123@outlook.com**
 
