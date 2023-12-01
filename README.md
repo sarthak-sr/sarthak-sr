@@ -43,7 +43,7 @@ My Projects
 
 - 💬 Ask me about **MySQL, Python, Statistics, Web scrapping, EDA, Machine Learning, Deep Learning, Tensorfloe, Keras, Word2Vec, NLP**
 
-- 📫 How to reach me **sarthak_123@outlook.com**
+- 📫 How to reach me **sarthak.s.1603@gmail.com**
 
 - 📄 My Resume [Resume](https://docs.google.com/document/d/1A8PljT96sZ4Q9SmYtMZn2gf4g7pQE1qMOcFiKkjKi8M/edit?usp=sharing)
 
